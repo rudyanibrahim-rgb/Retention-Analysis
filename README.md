@@ -2,8 +2,13 @@
 complex CTE and Join implementation for marketing performance analysis
 supported by : 
 
+
+
 #### Executive Summary 
 "Analisis ini bertujuan untuk mengevaluasi efektivitas biaya pemasaran (marketing spending) dan kesehatan loyalitas pelanggan sepanjang tahun 2023 pada platform retail e-commerce pakaian. Menggunakan metode Time-Based Cohort Analysis, ditemukan adanya anomali performa: kinerja akuisisi pelanggan baru melesat sangat agresif, namun tidak diimbangi oleh kemampuan retensi yang waras, memicu risiko pemborosan anggaran pemasaran (budget inefficiency) akibat tingginya early churn."
+#### preview 
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/b0980946-96ff-4e4f-997f-5c70c8e4e375" />
 
 
 
