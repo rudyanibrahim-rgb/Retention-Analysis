@@ -1,10 +1,10 @@
-# Retention-Analysis
+# **Retention-Analysis**
 complex CTE and Join implementation for marketing performance analysis
 supported by : 
 
 
 
-### Executive Summary 
+### **Executive Summary** 
   "Analisis ini bertujuan untuk mengevaluasi efektivitas biaya pemasaran (marketing spending) dan kesehatan loyalitas pelanggan sepanjang tahun 2023 pada platform retail e-commerce pakaian. Menggunakan metode Time-Based Cohort Analysis, ditemukan adanya anomali performa: kinerja akuisisi pelanggan baru melesat sangat agresif, namun tidak diimbangi oleh kemampuan retensi yang waras, memicu risiko pemborosan anggaran pemasaran (budget inefficiency) akibat tingginya early churn."
 ### preview 
 
@@ -13,6 +13,7 @@ supported by :
 
 
 
+### **key insight** 
 * Performa Akuisisi yang Agresif (Top Funnel Success):
 Sepanjang tahun 2023, platform berhasil mencatatkan pertumbuhan impresif dengan meraup total 7.447 pelanggan baru, melonjak $57,8\%$ dibandingkan periode sebelumnya. Tren pertumbuhan pengguna baru juga menunjukkan konsistensi kenaikan dari bulan ke bulan. Hal ini membuktikan bahwa strategi kampanye pemasaran untuk menarik impresi pertama (top-of-funnel marketing) berjalan dengan sangat efektif.
 
