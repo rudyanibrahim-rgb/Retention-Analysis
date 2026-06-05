@@ -13,7 +13,7 @@ supported by :
 
 
 
-### **key insight** 
+### **key insight : ** 
 * Performa Akuisisi yang Agresif (Top Funnel Success):
 Sepanjang tahun 2023, platform berhasil mencatatkan pertumbuhan impresif dengan meraup total 7.447 pelanggan baru, melonjak $57,8\%$ dibandingkan periode sebelumnya. Tren pertumbuhan pengguna baru juga menunjukkan konsistensi kenaikan dari bulan ke bulan. Hal ini membuktikan bahwa strategi kampanye pemasaran untuk menarik impresi pertama (top-of-funnel marketing) berjalan dengan sangat efektif.
 
