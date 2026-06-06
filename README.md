@@ -1,5 +1,5 @@
 # **Retention-Analysis**
-complex CTE and Join implementation for marketing performance analysis
+## complex CTE and Join implementation for marketing performance analysis
 
 
 
@@ -8,7 +8,8 @@ supported by :
 
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 
-=======
+---
+
 
 
 
@@ -22,7 +23,7 @@ supported by :
 * Data Cleaning : data dibersihkan dari data duplikat dan null values, setelah diperhatikan tidak  ada duplikasi data dan null values yang akan berpengaruh negatif ke analisis
 * Data Analysis : analisis yang dilakukan adalah eksploratory analysis dengan melakukan modeling data menggunakan query sql untuk mengetahui retensi pelanggan
 
-##### tahapan - tahapan query :
+* **tahapan - tahapan query** :
 A. Analisis retensi : 
 * melakukan query untuk mengekstrak nomor unik setiap pelanggan dan tanggal pertama pemesanannya dari table orders untuk dijadikan 1 tabel di dalam CTE pertama dengan catatan semua data yang diekstrak adalah data dengan status 'Complete'
 * melakukan query untuk ekstraksi semua data di CTE pertama dan digabungkan dengan semua tanggal pemesanan selanjutnya dibuat kolom terakhir untuk mengurangi tanggal di setiap kolom dengan tanggal pembelian pertama  dengan catatan semua data yang diekstrak adalah data dengan status 'Complete'
