@@ -33,8 +33,8 @@ supported by :
 
 
 ### **key insight : ** 
-* Performa Akuisisi yang Agresif (Top Funnel Success):
-Sepanjang tahun 2023, platform berhasil mencatatkan pertumbuhan impresif dengan meraup total 7.447 pelanggan baru, melonjak $57,8\%$ dibandingkan periode sebelumnya. Tren pertumbuhan pengguna baru juga menunjukkan konsistensi kenaikan dari bulan ke bulan. Hal ini membuktikan bahwa strategi kampanye pemasaran untuk menarik impresi pertama (top-of-funnel marketing) berjalan dengan sangat efektif.
+* Performa Akuisisi yang Agresif :
+Sepanjang tahun 2023, platform berhasil mencatatkan pertumbuhan impresif dengan meraup total 7.447 pelanggan baru, melonjak 57,8% dibandingkan periode sebelumnya. Tren pertumbuhan pengguna baru juga menunjukkan konsistensi kenaikan dari bulan ke bulan. Hal ini membuktikan bahwa strategi kampanye pemasaran untuk menarik impresi pertama  berjalan dengan sangat efektif.
 
 * Alarm Kebocoran Data Retensi (The Leaky Bucket Problem):
 Di balik keberhasilan akuisisi, platform menghadapi tantangan retensi yang sangat kritis. Rata-rata retention rate pada bulan pertama (month_1) setelah pembukaan akun drop secara ekstrem dan stabil rendah di kisaran $1\%$. Artinya, dari setiap 1.000 pembeli baru yang berhasil didapatkan, rata-rata hanya 10 pelanggan yang kembali bertransaksi.
