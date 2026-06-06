@@ -16,6 +16,7 @@ supported by :
   "Analisis ini bertujuan untuk mengevaluasi efektivitas biaya pemasaran (marketing spending) dan kesehatan loyalitas pelanggan sepanjang tahun 2023 pada platform retail e-commerce pakaian. Menggunakan metode Time-Based Cohort Analysis, ditemukan adanya anomali performa: kinerja akuisisi pelanggan baru melesat sangat agresif, namun tidak diimbangi oleh kemampuan retensi yang waras, memicu risiko pemborosan anggaran pemasaran (budget inefficiency) akibat tingginya early churn."
 
 ### **Tahapan Tahapan project** :
+### **Tahapan Tahapan Analisa** :
 * Data Extraction :
   Data didapatkan di website Kaggle <https://www.kaggle.com/datasets/chiraggivan82/ecommerce-bigquery>, data diekstrak menggunakan bahasa pemrograman python dan dibersihkan dan diperiksa lebih lanjut granularitas datanya
 * Data Cleaning : data dibersihkan dari data duplikat dan null values, setelah diperhatikan tidak  ada duplikasi data dan null values yang akan berpengaruh negatif ke analisis
@@ -38,9 +39,10 @@ B. Analisis kategori :
 <https://colab.research.google.com/drive/14d2ztSn-8vGBS8NcwM8T37EQjwQ_ZXTf?usp=sharing>
 ### Google Data Studio link
 <https://datastudio.google.com/reporting/d887e2b4-7755-40b7-a705-798cb77101ff>
+### preview 
 
 <img width="564" height="422" alt="image" src="https://github.com/user-attachments/assets/8aa90054-41c9-4acb-b27d-95b218a30fd8" />
->>>>>>> 84bf89fe2b803c1074c4e4c3c789bb61b1eb3423
+
 
 
 
